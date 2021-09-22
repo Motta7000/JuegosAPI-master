@@ -1,0 +1,86 @@
+.App {
+  text-align: center;
+  width: 100%;
+  height: 100%;
+}
+
+.homeBody {
+  background-color: white;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: black;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+.acceptButon {
+  background: 'linear-gradient(45deg, #2196f3 30%, #21cbf3 90%)';
+  border-radius : 15px;
+  border: 0;
+  color: white;
+  background-color: cornflowerblue;
+  font-size: 20px;
+  height: 40px;
+  width: 150px;
+  padding: 5px;
+  margin: 10px;
+  cursor: pointer;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.acceptButon:hover {
+  background-color: #61b6fb;
+}
+
+.row {
+  display: inline-block;
+  padding: 50px;
+}
+.rowbloqueado {
+  display: inline-block;
+  padding: 10px;
+  opacity: 0.5;
+}
+
+.cuenta{
+  align-items: center;
+  align-self: start;
+}
+
+body, html {
+  height: 100%;
+  background-image: url('./img/greenboard2.jpg');
+  background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+
+.bg_cuentasNivel {
+    background-image: url('./img/greenboard2.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 100%;
+    }
+
+.bg_maxminNivel {
+      background-image: url('./img/parkcartoon 2.jpg');
+      background-size: cover;
+      background-position: center;
+      background-repeat: no-repeat;
+      height: 100%;
+      }
+
+.bg_monedaNivel {
+    background-image: url('./img/parkcartoon 3.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 100%;
+  }

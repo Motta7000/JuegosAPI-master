@@ -1,0 +1,33 @@
+[
+    {
+        "respuestascorrectas": [
+            "2",
+            "2"
+        ],
+        "texto": "https://image.prntscr.com/image/RfTXFKi8RpWQ8RnO26NL1A.png",
+        "pregunta1": "¿Quien es Paquita?",
+        "p1respuesta1": "Una caja",
+        "p1respuesta2": "La protagonista",
+        "p1respuesta3": "El raton",
+        "pregunta2": "¿Que hay en el paquete?",
+        "p2respuesta1": "Queso",
+        "p2respuesta2": "Un panqueque",
+        "p2respuesta3": "Otro paquete"
+    }
+    ,
+    {
+        "respuestascorrectas": [
+            "1",
+            "2"
+        ],
+        "texto": "https://image.prntscr.com/image/H8Qqt3jXQnOETmVM_gVWEw.png",
+        "pregunta1": "¿Quien se va de paseo?",
+        "p1respuesta1": "La vaca Victoria",
+        "p1respuesta2": "El pastor",
+        "p1respuesta3": "La oveja",
+        "pregunta2": "¿Quien salta a su lado?",
+        "p2respuesta1": "La vaca Victoria",
+        "p2respuesta2": "Su ternero",
+        "p2respuesta3": "El invierno"
+    }
+]

@@ -1,0 +1,33 @@
+[
+    {
+        "respuestascorrectas": [
+            "1",
+            "2"
+        ],
+        "texto": "https://image.prntscr.com/image/h2DtSxrwTSe05TYeH0ci5w.png",
+        "pregunta1": "¿Quien le lee los cuentos?",
+        "p1respuesta1": "El abuelo",
+        "p1respuesta2": "La abuela",
+        "p1respuesta3": "Ella misma",
+        "pregunta2": "¿Como son los abuelos de Daniela?",
+        "p2respuesta1": "Aburridos",
+        "p2respuesta2": "Simpaticos",
+        "p2respuesta3": "Malos"
+    }
+    ,
+    {
+        "respuestascorrectas": [
+            "2",
+            "1"
+        ],
+        "texto": "https://image.prntscr.com/image/QAQy0CZ4T9eyzn6XIY8vvg.png",
+        "pregunta1": "¿Que tareas harán los aseadores?",
+        "p1respuesta1": "Cuidar a los animales",
+        "p1respuesta2": "Limpiar las jaulas",
+        "p1respuesta3": "Mantenimiento de los jardines",
+        "pregunta2": "¿Cuando comienzan las labores?",
+        "p2respuesta1": "Marzo",
+        "p2respuesta2": "Cuanto antes",
+        "p2respuesta3": "A coordinar"
+    }
+]

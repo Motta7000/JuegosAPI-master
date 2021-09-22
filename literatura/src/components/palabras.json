@@ -1,0 +1,116 @@
+[
+    {
+        "palabra": "hola",
+        "estaBienEscrito": true
+    }
+    ,
+    {
+        "palabra": "árbol",
+        "estaBienEscrito": true
+    }
+    ,
+    {
+        "palabra": "ombro",
+        "estaBienEscrito": false
+    }
+    ,
+    {
+        "palabra": "hisla",
+        "estaBienEscrito": false
+    }
+    ,
+    {
+        "palabra": "selular",
+        "estaBienEscrito": false
+    }
+    ,
+    {
+        "palabra": "cambio",
+        "estaBienEscrito": true
+    }
+    ,
+    {
+        "palabra": "ola",
+        "estaBienEscrito": false
+    }
+    ,
+    {
+        "palabra": "pam",
+        "estaBienEscrito": false
+    }
+    ,
+    {
+        "palabra": "carme",
+        "estaBienEscrito": false
+    }
+    ,
+    {
+        "palabra": "perro",
+        "estaBienEscrito": true
+    }
+    ,
+    {
+        "palabra": "gato",
+        "estaBienEscrito": true
+    }
+    ,
+    {
+        "palabra": "girafa",
+        "estaBienEscrito": false
+    }
+    ,
+    {
+        "palabra": "lovo",
+        "estaBienEscrito": false
+    }
+    ,
+    {
+        "palabra": "zebra",
+        "estaBienEscrito": false
+    }
+    ,
+    {
+        "palabra": "vurro",
+        "estaBienEscrito": false
+    }
+    ,
+    {
+        "palabra": "avestrus",
+        "estaBienEscrito": false
+    }
+    ,
+    {
+        "palabra": "vallena",
+        "estaBienEscrito": false
+    }
+    ,
+    {
+        "palabra": "visonte",
+        "estaBienEscrito": false
+    }
+    ,
+    {
+        "palabra": "cavallo",
+        "estaBienEscrito": false
+    }
+    ,
+    {
+        "palabra": "gayina",
+        "estaBienEscrito": false
+    }
+    ,
+    {
+        "palabra": "iena",
+        "estaBienEscrito": false
+    }
+    ,
+    {
+        "palabra": "jabaly",
+        "estaBienEscrito": false
+    }
+    ,
+    {
+        "palabra": "loro",
+        "estaBienEscrito": true
+    }
+]

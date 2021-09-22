@@ -1,0 +1,62 @@
+[
+    {
+        "cuenta": "2+2",
+        "correcto": 4,
+        "incorrecto": 6
+    }
+    ,
+    {
+        "cuenta": "3+2",
+        "correcto": 5,
+        "incorrecto": 6
+    }
+    ,
+    {
+        "cuenta": "4+2",
+        "correcto": 6,
+        "incorrecto": 7
+    }
+    ,
+    {
+        "cuenta": "7+2",
+        "correcto": 9,
+        "incorrecto": 6
+    }
+    ,
+    {
+        "cuenta": "1+2",
+        "correcto": 3,
+        "incorrecto": 6
+    }
+    ,
+    {
+        "cuenta": "20+2",
+        "correcto": 22,
+        "incorrecto": 10
+    }
+    ,
+    {
+        "cuenta": "14+2",
+        "correcto": 16,
+        "incorrecto": 0
+    }
+    ,
+    {
+        "cuenta": "15+2",
+        "correcto": 17,
+        "incorrecto": 4
+    }
+    ,
+    {
+        "cuenta": "10+2",
+        "correcto": 12,
+        "incorrecto": 14
+    }
+    ,
+    {
+        "cuenta": "9+2",
+        "correcto": 11,
+        "incorrecto": 10
+    }
+   
+]

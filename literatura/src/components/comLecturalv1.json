@@ -1,0 +1,33 @@
+[
+    {
+        "respuestascorrectas": [
+            "2",
+            "2"
+        ],
+        "texto": "https://image.prntscr.com/image/C1piQ6tARvCVezPtkyo01g.png",
+        "pregunta1": "¿Como se llama el personaje principal?",
+        "p1respuesta1": "Axel",
+        "p1respuesta2": "Luciano",
+        "p1respuesta3": "Matias",
+        "pregunta2": "¿Que habia en la caja?",
+        "p2respuesta1": "Un autito",
+        "p2respuesta2": "Un perrito",
+        "p2respuesta3": "Un muñeco de peluche"
+    },
+    {
+        "respuestascorrectas": [
+            "1",
+            "1"
+        ],
+        "texto": "https://image.prntscr.com/image/IP5PRe5-RXCXs0W4tkAEWA.png",
+        "pregunta1": "¿Quien es Fifi?",
+        "p1respuesta1": "Un oso",
+        "p1respuesta2": "Un elefante",
+        "p1respuesta3": "Un leon",
+        "pregunta2": "¿Quien es Tolon?",
+        "p2respuesta1": "Un leon",
+        "p2respuesta2": "Un elefante",
+        "p2respuesta3": "Un oso"
+    }
+
+]

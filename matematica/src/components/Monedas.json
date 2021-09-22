@@ -1,0 +1,9 @@
+[
+  { "src": "moneda1centavo.jpg", "monto": 0.01 },
+  { "src": "moneda5centavos.png", "monto": 0.05 },
+  { "src": "moneda10centavos.jpg", "monto": 0.1 },
+  { "src": "moneda25centavos.png", "monto": 0.25 },
+  { "src": "moneda50centavos.jpg", "monto": 0.5 },
+  { "src": "moneda1peso.jpg", "monto": 1 },
+  { "src": "moneda2pesos.jpg", "monto": 2 }
+]
